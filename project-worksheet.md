@@ -21,7 +21,7 @@ I would like to make a really creative website. As we learn how to create more e
 
 ## Google Sheet
 
-Include link to your google sheet here. Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/1SQUgF64A0yENOhR_s8hI8riW43xDlaVuJhzBbZh7HVw/edit#gid=0)
+Here is a link to where all my projects [live](https://docs.google.com/spreadsheets/d/1SQUgF64A0yENOhR_s8hI8riW43xDlaVuJhzBbZh7HVw/edit#gid=0)
 
 ## Wireframes
 
