@@ -16,15 +16,15 @@ In order to help set you up for success you are required to do the following bef
 
 #### Reading
 
- The [previous cohorts project 1 retrospective](previous-class-project-retrospective.md)
+The [previous cohorts project 1 retrospective](previous-class-project-retrospective.md)
 
-There are alot of helpful hints and hindsight that were captured after the completion of project 1 which are sure to help provide some guidance on what to and not to do during this project. 
+There are alot of helpful hints and hindsight that were captured after the completion of project 1 which are sure to help provide some guidance on what to and not to do during this project.
 
 #### Watch
 
- [Mastering Markdown](https://masteringmarkdown.com/) - 34min
+[Mastering Markdown](https://masteringmarkdown.com/) - 34min
 
- You will need to write and update markdown for this project as will be the case for all future projects so it's your responsibility to become familiar with the syntax.  
+You will need to write and update markdown for this project as will be the case for all future projects so it's your responsibility to become familiar with the syntax.
 
 ---
 
@@ -36,17 +36,18 @@ Your work must:
 - Use CSS GRID to create a multi-column layout.
 - Use Flexbox for content
 - Must be mobile mobile first, then tablet and desktop responsive.
-- Must pull in projects via API call from google sheet 
-- Be deployed and accessible online either via Github Pages or Surge. 
+- Must pull in projects via API call from google sheet
+- Be deployed and accessible online either via Github Pages or Surge.
+
 ---
 
 ## Necessary Deliverables
 
-- An About, Projects, Contact form 
-- Site must be created using a "mobile first" approach. 
-- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site. Site url should be in the form of githubusername.github.io. 
+- An About, Projects, Contact form
+- Site must be created using a "mobile first" approach.
+- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site. Site url should be in the form of githubusername.github.io.
 - Repo must contain frequent commits (min 15+) dating back to the beginning of the project.
-- An updated project workshheet will all sections filled out accordingly. 
+- An updated project workshheet will all sections filled out accordingly.
 - An in-class demo of the site that shows off the interactions you worked on.
 - A mobile nav that expands and collapses when a user clicks on the hamburger icon.
 
@@ -54,55 +55,54 @@ Your work must:
 
 Check out portfoliios that look awesome and emulate the parts that speak to you. Here are some that we like but you should google around and find stuff you're into.
 
- - [denisechandler.com](http://www.denisechandler.com/)
+- [denisechandler.com](http://www.denisechandler.com/)
 
- - [mattfarely.ca](http://mattfarley.ca/)
+- [mattfarely.ca](http://mattfarley.ca/)
 
- - [sebkay.com](http://sebkay.com/)
- 
- ### Previous SEI Students
+- [sebkay.com](http://sebkay.com/)
 
- - [helloaileen.com](http://helloaileen.com)
- 
- - [eloise-ress-barrow.surge.sh/](http://eloise-ress-barrow.surge.sh/#writing)
+### Previous SEI Students
 
- - [lianapenn.com](https://www.lianapenn.com/)
- 
- - [robertdiscipio.surge.sh/](http://robertdiscipio.surge.sh/)
- 
- - [andrewhollingworth.com/](http://andrewhollingworth.com/)
- 
- - [jessicalandzberg.github.io/](https://jessicalandzberg.github.io/Unit_1_Project/#myJourney0)
- 
+- [helloaileen.com](http://helloaileen.com)
 
+- [eloise-ress-barrow.surge.sh/](http://eloise-ress-barrow.surge.sh/#writing)
 
-### Finding Good Portfolio Sites To Emulate 
+- [lianapenn.com](https://www.lianapenn.com/)
 
-Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site. 
+- [robertdiscipio.surge.sh/](http://robertdiscipio.surge.sh/)
+
+- [andrewhollingworth.com/](http://andrewhollingworth.com/)
+
+- [jessicalandzberg.github.io/](https://jessicalandzberg.github.io/Unit_1_Project/#myJourney0)
+
+### Finding Good Portfolio Sites To Emulate
+
+Search and compare at least 3 profile web sites. Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site.
 
 Here is a sample of what that reserach will look like:
 
-Link To Site  | One Thing I'd Like To Incorporate | 
-| ------------- | ------------- |
-| [http://www.denisechandler.com/](http://www.denisechandler.com/)| initial animation\drawing on page load
-|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
-| [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
+| Link To Site                                                     | One Thing I'd Like To Incorporate          |
+| ---------------------------------------------------------------- | ------------------------------------------ |
+| [http://www.denisechandler.com/](http://www.denisechandler.com/) | initial animation\drawing on page load     |
+| [jkeohan.com](http://jkeohan.com/)                               | mouseover on a project triggers animations |
+| [http://mattfarley.ca/](http://mattfarley.ca/)                   | layout of the projects                     |
 
 <hr>
 
 #### <g-emoji class="g-emoji" alias="alarm_clock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f0.png">⏰</g-emoji> Activity - 15min
 
-Your turn. Spend sometime and look at a few portfolio  and/or web sites to find some design or functionality that you would like to incorporate into your own portfolio.  Record those findings below:
+Your turn. Spend sometime and look at a few portfolio and/or web sites to find some design or functionality that you would like to incorporate into your own portfolio. Record those findings below:
 
-Link To Site  | One Thing I'd Like To Incorporate | 
-| ------------- | ------------- |
-| | 
-| |  
-|  |  
+| Link To Site       | One Thing I'd Like To Incorporate                                                |
+| ------------------ | -------------------------------------------------------------------------------- |
+| Steve Calvillo [S] | How when you mouse over his projects, its changes colors or texture              |
+| Julie Bonnemoy [J] | I like how playful hers is, I want to add fun elements like her small peace sign |
+| Dejan [D]          | I love how when you scroll over his "hello" it changes to "about" and so on.     |
 
 <hr>
 
 ---
+
 #### Suggested Ways to Get Started
 
 - Don't hesitate to write throwaway code to solve short-term problems.
@@ -118,13 +118,14 @@ Try exploring these front end frameworks:
 - [https://getbootstrap.com/](https://getbootstrap.com/)
 
 ---
+
 ## Hungry For More?
 
 If you're looking for an extra challenge, try tackling some of the tasks below:
 
-* Add validation to the contact form to make sure the user has filled out all required fields before submitting.
-* Add a skills section featuring skills you have/will have learned in the class.
-* Add a carousel 
+- Add validation to the contact form to make sure the user has filled out all required fields before submitting.
+- Add a skills section featuring skills you have/will have learned in the class.
+- Add a carousel
 
 ---
 
@@ -133,16 +134,18 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 - Joe's [FEWD Trello Board](https://trello.com/b/yqrvugBk/lectures)
 - Joe's YouTube 3 Part Sereis on [jQuery Top Nav Animation On Scroll](https://www.youtube.com/watch?v=mRsF-a3qFZE&t=176s)
 
-
 ## Need More Review?
 
-
 - HTML/CSS
-	- [Practice CSS Selectors with CSS Diner](https://flukeout.github.io/)
-	- [Flexbox Froggy](http://flexboxfroggy.com/)
 
+  - [Practice CSS Selectors with CSS Diner](https://flukeout.github.io/)
+  - [Flexbox Froggy](http://flexboxfroggy.com/)
 
 - JavaScript
-	- [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
+  - [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
 
 ---
+
+[s]: http://stephencalvillodesign.com/
+[j]: https://juliebonnemoy.com/
+[d]: http://www.dejan.works/
