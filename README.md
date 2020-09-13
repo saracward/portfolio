@@ -93,11 +93,11 @@ Here is a sample of what that reserach will look like:
 
 Your turn. Spend sometime and look at a few portfolio and/or web sites to find some design or functionality that you would like to incorporate into your own portfolio. Record those findings below:
 
-| Link To Site       | One Thing I'd Like To Incorporate                                                |
-| ------------------ | -------------------------------------------------------------------------------- |
-| Steve Calvillo [S] | How when you mouse over his projects, its changes colors or texture              |
-| Julie Bonnemoy [J] | I like how playful hers is, I want to add fun elements like her small peace sign |
-| Dejan [D]          | I love how when you scroll over his "hello" it changes to "about" and so on.     |
+| Link To Site                      | One Thing I'd Like To Incorporate                                                |
+| --------------------------------- | -------------------------------------------------------------------------------- |
+| http://stephencalvillodesign.com/ | How when you mouse over his projects, its changes colors or texture              |
+| https://juliebonnemoy.com/        | I like how playful hers is, I want to add fun elements like her small peace sign |
+| http://www.dejan.works/           | I love how when you scroll over his "hello" it changes to "about" and so on.     |
 
 <hr>
 
@@ -145,7 +145,3 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
   - [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
 
 ---
-
-[s]: http://stephencalvillodesign.com/
-[j]: https://juliebonnemoy.com/
-[d]: http://www.dejan.works/
