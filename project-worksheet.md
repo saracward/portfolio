@@ -32,8 +32,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 Wireframing Resources:
 
-- [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
+[<img src="https://ibb.co/nQg0Qjr"/>]
 
 ## Time/Priority Matrix
 
