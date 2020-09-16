@@ -76,9 +76,6 @@ div.instagram {
 
 }
 
-a: {
- color:#eb6f93;
-}
 
   .footer {
     background-color: #002021;
@@ -88,46 +85,6 @@ a: {
 
   }
   
-
-/* @media screen and (min-width: 768px) { */
-/* 
-      nav.navbar{
-        background-color: #002021;
-        color:#027a74;
-      }
-        
-      #yo {
-        color:#ff0022;
-        font-size: 60px;
-        font-weight: 90;
-        letter-spacing: 30px;
-        text-align: center;
-      }
-
-      #intro {
-        color: #FCBE8E;
-        font-size: 25px;
-        padding: 5px;
-      }
-    
-
-      .words {
-        text-align: center;
-        color: white;
-        font-size: 25px;
-        background-color: #5B9489;
-        font-weight: 90;
-        height: 100%;
-    }
-
-    div.welcome {
-        /* background-color: #ff0022; */
-        /* text-align: center;
-        padding: 5px;
-        width: 100%;
-        font-weight: 90;
-      } */ 
-
       @media screen and (min-width: 768px) {
 
       div.container {
@@ -136,7 +93,7 @@ a: {
           justify-items: center;
           grid-gap: 10px;
           flex-direction: row;
-          grid-template-columns: 1fr 1fr;
+          grid-template-columns: 1fr 1fr 1fr;
           grid-template-rows: 1fr 1fr;
           background-color: #5B9489;
           height: 100%;
@@ -157,17 +114,18 @@ a: {
     justify-items: center;
     margin-left: auto;
     margin-right: auto;;
-    }
+              }
 
-/* 
-@media screen and (max-width: 1024px){
+   }
+
+/* @media screen and (max-width: 1024px){
 
   nav.navbar{
     background-color: #002021;
     color:#027a74;
-}
+} */
 
-
+/* 
   div.container {
     display: grid;
     align-items: center;
@@ -177,5 +135,4 @@ a: {
     grid-template-rows: 1fr;
     background-color: #5B9489;
     height: 100%;
-    }
-} */
+    } */

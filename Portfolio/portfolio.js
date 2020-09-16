@@ -35,3 +35,12 @@ $div.addClass("instagram");
 
 //     }
 // }
+
+let promiseResolved = newPromise((resolve, reject) => {
+  setTimeout(() => resolve("done"), 3000);
+});
+
+console.log("this runs before .then");
+promiseResolved.then((val) => {
+  console.log("val is:", val);
+});
