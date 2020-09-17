@@ -16,7 +16,9 @@ function app(projects) {
 const project_array = [];
 $.ajax({ url: sheetAsJSON }).then((data) => {
   const projects = data.feed.entry.map((project) => {
-    project_array.push({
+    project_array.push(
+      return{
+    
       title: project.gsx$_cn6ca.$t,
       image: project.gsx$_cokwr.$t,
       description: project.gsx$_cpzh4.$t,
