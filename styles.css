@@ -1,52 +1,53 @@
+html {
+  font-family: sans serif -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
 
-  html{
-      font-family: sans serif -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-  }
-  
-  #yo {
-    color: #eb6f93;;
-    font-size: 60px;
-    font-weight: 90;
-    letter-spacing: 30px;
-    text-align: center;
-  }
-nav.navbar{
-    background-color: #002021;
-    color:#027a74;
+#yo {
+  color: #eb6f93;
+  font-size: 60px;
+  font-weight: 90;
+  letter-spacing: 30px;
+  text-align: center;
+}
+nav.navbar {
+  background-color: #002021;
+  color: #027a74;
 }
 .peace {
- height: 80px;
- width: 10%;
-
+  height: 80px;
+  width: 10%;
 }
-  div.welcome {
-    /* background-color: #ff0022; */
-    text-align: center;
-    padding: 5px;
-    width: 100%;
-    font-weight: 90;
-  }
+div.welcome {
+  /* background-color: #ff0022; */
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  font-weight: 90;
+}
 
-  #intro {
-    color: #FCBE8E;
-    font-size: 25px;
-    padding: 5px;
-  }
+#intro {
+  color: #fcbe8e;
+  font-size: 25px;
+  padding: 5px;
+  font-weight: normal;
+}
 
 .words {
-    text-align: center;
-    color: white;
-    font-size: 25px;
-    background-color: #5B9489;
-    font-weight: 90;
-    padding: 10px;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  background-color: #5b9489;
+  font-weight: 90;
+  padding: 10px;
 }
-
 
 .deets {
-    background-color: #5B9489;
-    align-content: center;
+  background-color: #5b9489;
+  align-content: center;
+  padding: 10px;
 }
+
 .btn-primary {
   color: #fff;
   background-color: #eb6f93;
@@ -57,8 +58,28 @@ nav.navbar{
   border-color: red;
 }
 
+.btn-secondary {
+  background-color: #fcbe8e;
+  border-color: #fcbe8e;
+  width: 100%;
+}
+
+.btn-secondary:hover {
+  background-color: red;
+  border-color: red;
+}
+
+.footer {
+  background-color: #002021;
+  color: #027a74;
+  font-size: 25px;
+  padding: 10px;
+  justify-items: center;
+  width: 100%;
+}
+
 @media screen and (max-width: 425px) {
-div.container {
+  div.container {
     display: grid;
     align-items: center;
     justify-items: center;
@@ -66,73 +87,58 @@ div.container {
     flex-direction: row;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    background-color: #5B9489;
-    /* height: 100%; */
-    }
+    background-color: #5b9489;
+    height: 100%;
+    padding: 10px 0px 30px 0px;
+  }
 
-div.instagram {
-  align-self: center;
-  justify-self: center;
-
-}
-
+  div.instagram {
+    align-self: center;
+    justify-self: center;
+  }
 
   .footer {
     background-color: #002021;
-    color: #027a74;
-    font-size: 25px;
-    padding: 10px
-
-  }
-  
-      @media screen and (min-width: 768px) {
-
-      div.container {
-          display: grid;
-          align-items: center;
-          justify-items: center;
-          grid-gap: 10px;
-          flex-direction: row;
-          grid-template-columns: 1fr 1fr 1fr;
-          grid-template-rows: 1fr 1fr;
-          background-color: #5B9489;
-          height: 100%;
-          }
-
- 
-          div.instagram {
-            align-self: center;
-            justify-self: center;
-
-          }
-
-.footer {
-    background-color: #002021;
+    justify-items: center;
     color: #027a74;
     font-size: 25px;
     padding: 10px;
-    justify-items: center;
-    margin-left: auto;
-    margin-right: auto;;
-              }
+  }
+}
 
-   }
-
-/* @media screen and (max-width: 1024px){
-
-  nav.navbar{
-    background-color: #002021;
-    color:#027a74;
+/* footer.fa.fa-facebook {
+  align-self: center;
+  justify-items: center;
 } */
 
-/* 
+@media screen and (min-width: 768px) {
   div.container {
     display: grid;
     align-items: center;
+    justify-items: center;
     grid-gap: 10px;
     flex-direction: row;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr;
-    background-color: #5B9489;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     height: 100%;
-    } */
+    padding: 30px;
+  }
+  /* 
+  div.instagram {
+    align-self: center;
+    justify-self: center;
+  } */
+}
+
+@media screen and (min-width: 1024px) {
+  div.container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    grid-gap: 10px;
+    flex-direction: row;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 100%;
+  }
+}

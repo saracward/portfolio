@@ -1,8 +1,9 @@
 console.log("hello");
 console.log("this is $", $);
 
-let sheetUrl =
-  "https://docs.google.com/spreadsheets/d/1SQUgF64A0yENOhR_s8hI8riW43xDlaVuJhzBbZh7HVw/edit?usp=sharing";
+// $(() => {
+// let sheetUrl =
+//   "https://docs.google.com/spreadsheets/d/1SQUgF64A0yENOhR_s8hI8riW43xDlaVuJhzBbZh7HVw/edit?usp=sharing";
 
 let sheetAsJSON =
   "https://spreadsheets.google.com/feeds/list/1SQUgF64A0yENOhR_s8hI8riW43xDlaVuJhzBbZh7HVw/od6/public/values?alt=json";
@@ -27,20 +28,18 @@ $.ajax({ url: sheetAsJSON }).then((data) => {
   app(projects);
 });
 
-$div.addClass("instagram");
+// console.log(projects);
+// projects.forEach((project) => {
+//   //it might have to be const my_projects and not article.
+//   const $article = $("<article>").html({
+// `<div class="card text-center" style="width: 18rem">
+// <img src="${project.image}" class="card-img-top" alt="${project.title} picture">
+// <div class="card-body">
+// <h5 class="card-title">${project.title}</h5>
+// <p class="card-text">${project.description}</p>
+// <a href="${project.link}" class="btn btn-primary"> View Project </a>
+// </div>`
+//  });
 
-// function(data) {
-//     console.log(data);
-//     if (data[1].data != "https://res.cloudinary.com/jkeohan/image/upload/v1582134376/Screen_Shot_2020-01-30_at_8.57.12_AM_cnrvug.png") {
-
-//     }
-// }
-
-let promiseResolved = newPromise((resolve, reject) => {
-  setTimeout(() => resolve("done"), 3000);
-});
-
-console.log("this runs before .then");
-promiseResolved.then((val) => {
-  console.log("val is:", val);
-});
+//   $(".projects-main").append($article);
+//   console.log("all projects rendered...");
