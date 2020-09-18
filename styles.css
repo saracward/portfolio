@@ -53,6 +53,11 @@ div.welcome {
   padding: 10px;
 }
 
+.card-img-top {
+  height: 155px;
+  object-fit: cover;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #eb6f93;
@@ -74,6 +79,9 @@ div.welcome {
   border-color: red;
 }
 
+.container {
+  text-align: center;
+}
 .footer {
   background-color: #002021;
   color: #027a74;
