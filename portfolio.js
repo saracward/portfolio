@@ -36,3 +36,7 @@ $.ajax({ url: sheetAsJSON }).then((data) => {
   });
   renderProjects(projects);
 });
+
+$(".nav-link").on("click", () => {
+  $("navbar-collapse").collapse("hide");
+});

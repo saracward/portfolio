@@ -142,11 +142,23 @@ div.welcome {
     padding: 30px;
   }
 
+  #yo {
+    color: #eb6f93;
+    font-size: 100px;
+  }
+
   .peace {
     width: 20%;
     height: 20%;
   }
 
+  #intro {
+    color: #fcbe8e;
+    font-size: 30px;
+    padding: 15px;
+    margin: 20px
+    font-weight: normal;
+  }
   /* 
   div.instagram {
     align-self: center;
@@ -166,8 +178,17 @@ div.welcome {
     height: 100%;
   }
 
+  #yo {
+    color: #eb6f93;
+    font-size: 100px;
+    font-weight: 120;
+    letter-spacing: 70px;
+    text-align: center;
+  }
+
+
   .peace {
-    width: 10%;
-    height: 10%;
+    width: 15%;
+    height: 15%;
   }
 }
